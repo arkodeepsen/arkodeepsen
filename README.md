@@ -29,7 +29,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/> **Languages and Tools**
 <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="c" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.ruby-lang.org/en/"><img src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" alt="ruby" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.ruby-lang.org/en/"><img src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo.png" alt="ruby" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.javascript.com/"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40"/></a>&nbsp;&nbsp;
 <a href="https://www.w3.org/Style/CSS/"><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="40"/></a>&nbsp;&nbsp;
 <a href="https://html.com/"><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="40"/></a>&nbsp;&nbsp;
