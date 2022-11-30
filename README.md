@@ -44,9 +44,3 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ## ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkodeepsen&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=radical)
-
-
-<br>
-
-## **Certificates and Credentials**
-<iframe src="https://www.hackerrank.com/certificates/iframe/161a821e60fc" style="height:600px;width:800px;" title="CSS Certificate"></iframe>
