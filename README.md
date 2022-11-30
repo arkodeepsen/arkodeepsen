@@ -1,7 +1,7 @@
 
 
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hi%2C+there!+%F0%9F%91%8B+I'm+Arkodeep.)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=Hello!%2C+%F0%9F%91%8B+I'm+Arkodeep.)
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.*
 
