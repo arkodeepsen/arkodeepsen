@@ -50,14 +50,14 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## **🎖️ Credentials and Certifications**
 
-##*Certificates*
-<a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="0"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://i.ibb.co/CVZTFMj/java.png" alt="java" border="0"></a>&nbsp;&nbsp;
-<a href="https://skillshop.exceedlms.com/student/award/QMwCjGNZM6DTRkjEizct92Ed"><img src="https://i.ibb.co/r30dRqc/skillshop-exceedlms-com-student-award-QMw-Cj-GNZM6-DTRkj-Eizct92-Ed.jpg" alt="skillshop-exceedlms-com-student-award" border="0"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/161a821e60fc"><img src="https://i.ibb.co/BfNDVfD/css.png" alt="css" border="0"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/9509be2ba3ac"><img src="https://i.ibb.co/XZzPMdz/dsa.png" alt="dsa" border="0"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/8971179dba21"><img src="https://i.ibb.co/Yhx2Swh/sql.png" alt="sql" border="0"></a>&nbsp;&nbsp;
-<a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover"><img src="https://i.ibb.co/7QV1Cbj/ONQC086644.jpg" alt="ONQC086644" border="0"></a>&nbsp;&nbsp;
+## *Certificates*
+<a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="1"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://i.ibb.co/CVZTFMj/java.png" alt="java" border="1"></a>&nbsp;&nbsp;
+<a href="https://skillshop.exceedlms.com/student/award/QMwCjGNZM6DTRkjEizct92Ed"><img src="https://i.ibb.co/r30dRqc/skillshop-exceedlms-com-student-award-QMw-Cj-GNZM6-DTRkj-Eizct92-Ed.jpg" alt="skillshop-exceedlms-com-student-award" border="1"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/certificates/161a821e60fc"><img src="https://i.ibb.co/BfNDVfD/css.png" alt="css" border="1"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/certificates/9509be2ba3ac"><img src="https://i.ibb.co/XZzPMdz/dsa.png" alt="dsa" border="1"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/certificates/8971179dba21"><img src="https://i.ibb.co/Yhx2Swh/sql.png" alt="sql" border="1"></a>&nbsp;&nbsp;
+<a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover"><img src="https://i.ibb.co/7QV1Cbj/ONQC086644.jpg" alt="ONQC086644" border="1"></a>&nbsp;&nbsp;
 
-##*Internships*
-<a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://i.ibb.co/H28GVWp/Internship-Offer-Letter.png" alt="Internship-Offer-Letter" border="0"></a>&nbsp;&nbsp;
+## *Internships*
+<a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://i.ibb.co/H28GVWp/Internship-Offer-Letter.png" alt="Internship-Offer-Letter" border="1"></a>&nbsp;&nbsp;
