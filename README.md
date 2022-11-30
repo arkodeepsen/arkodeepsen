@@ -18,7 +18,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## **Connect With Me**<img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/><br>
 <a href="https://hackerrank.com/arkodeepsen"><img src="https://seeklogo.com/images/H/hackerrank-logo-CCAE05FD0D-seeklogo.com.png" alt="running" width="35"/></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/u/arkodeepsen"><img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="linkedin" width="40"/></a>&nbsp;
+<a href="https://linkedin.com/arkodeepsen"><img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="linkedin" width="40"/></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/arkodeepsen"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" width="37"/></a>&nbsp;&nbsp;
 <a href="https://reddit.com/u/drgamerarko"><img src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" alt="reddit" width="40"/></a>&nbsp;&nbsp;
 <a href="https://steamcommunity.com/id/DrGamerArko/"><img src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" alt="steam" width="40"/></a>&nbsp;
