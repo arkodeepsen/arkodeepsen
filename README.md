@@ -49,4 +49,4 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 ## **Certificates and Credentials**
-<iframe src="https://www.hackerrank.com/certificates/iframe/161a821e60fc" title="CSS Certificate"></iframe>
+<iframe src="https://www.hackerrank.com/certificates/iframe/161a821e60fc" style="height:600px;width:800px;" title="CSS Certificate"></iframe>
