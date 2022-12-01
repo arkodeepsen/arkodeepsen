@@ -62,3 +62,8 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## *Internships*
 <a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://iili.io/HfRcI3l.md.png" alt="Internship-Offer-Letter" border="1"></a>&nbsp;&nbsp;
+
+
+<br>
+
+Also checkout - [Saikat.in](https://saikat.in)
