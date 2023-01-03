@@ -12,7 +12,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
 • 💡 *Interested in web development, music production and game design.*<br>
-• 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com)<br>
+• 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 
 <br>
 
