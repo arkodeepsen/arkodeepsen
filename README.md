@@ -14,6 +14,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 
+[![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <br>
 
 ## **Connect With Me**<img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/><br>
