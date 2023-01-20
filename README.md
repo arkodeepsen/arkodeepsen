@@ -68,6 +68,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 <br>
+<!--START_SECTION:activity-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
