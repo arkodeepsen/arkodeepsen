@@ -69,4 +69,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Also checkout - [Saikat.in](https://saikat.in)
