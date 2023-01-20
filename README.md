@@ -19,11 +19,31 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 ## **Connect With Me**<img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/><br>
-<a href="https://hackerrank.com/arkodeepsen"><img src="https://seeklogo.com/images/H/hackerrank-logo-CCAE05FD0D-seeklogo.com.png" alt="running" width="35"/></a> &nbsp;&nbsp;
-<a href="https://linkedin.com/arkodeepsen"><img src="https://seeklogo.com/images/L/linkedin-in-icon-logo-2E34704F04-seeklogo.com.png" alt="linkedin" width="40"/></a>&nbsp;
-<a href="https://auth.geeksforgeeks.org/user/arkodeepsen"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="gfg" width="37"/></a>&nbsp;&nbsp;
-<a href="https://reddit.com/u/drgamerarko"><img src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" alt="reddit" width="40"/></a>&nbsp;&nbsp;
-<a href="https://steamcommunity.com/id/DrGamerArko/"><img src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" alt="steam" width="40"/></a>&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkodeepsen)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/ad0bc8b301877653eebaa734a3b4be7d)
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/arkodeep)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20815964/arkodeep-sen)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arkodeep)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://hackerrank.com/arkodeepsen)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/arkodeepsen)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/arkodeeps)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=arkodeepsen72@gmail.com&su=&body=&tf=cm)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/arkodeepsen)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/arkodeepsn/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/arkodeepsen)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/arkodeepsn)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/drgamerarko)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/DrGamerArko)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/drgamerarko)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/365JpSzUAh)
+[![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](https://account.xbox.com/en-in/profile?gamertag=DrGamerArko)
+[![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)](https://starcraft2.com/en-us/profile/1/1/575863)
+[![EA](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](DrGamerArko on Origin)
+[![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/en-US/u/76ffab9e6cc14d68ae8c5c6c6a143753)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://drgamerarko.itch.io/)
+![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)
+[![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://id.sonyentertainmentnetwork.com/id/drgamerarko)
 
 
 <br>
