@@ -2,6 +2,7 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.*
 
@@ -14,7 +15,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 
-## **Currently listening/last played**
+## **Currently Listening/Last Played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <br>
 
@@ -41,6 +42,9 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)](https://starcraft2.com/en-us/profile/1/1/575863)
 [![EA](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://pasteboard.co/7K9lMaWC2z7D.png)
 [![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/en-US/u/76ffab9e6cc14d68ae8c5c6c6a143753)
+[![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)](https://pasteboard.co/zkwKrGH6XNTR.png)
+[![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)](https://www.square-enix-games.com/en_EU/user?_ga=2.62653487.2041442912.1674293676-328220799.1674293676)
+[![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)](https://ubisoftconnect.com/en-GB/profile/drgamerarko)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://drgamerarko.itch.io/)
 [![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)](https://pasteboard.co/Q9LwuZCTu3Ec.png)
 [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://pasteboard.co/qe32EnmT9p36.png)
@@ -50,23 +54,56 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/> **Languages and Tools**
-<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="c" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.ruby-lang.org/en/"><img src="https://www.svgrepo.com/show/349494/ruby.svg" alt="ruby" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.javascript.com/"><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.w3.org/Style/CSS/"><img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="css" width="40"/></a>&nbsp;&nbsp;
-<a href="https://html.com/"><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" alt="html" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.java.com/en/"><img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="java" width="40"/></a>&nbsp;&nbsp;
-<a href="https://www.iso.org/standard/63555.html"><img src="https://seeklogo.com/images/M/mysql-logo-69B39F7D18-seeklogo.com.png" alt="sql" width="40"/></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="40"/></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="vscode" width="40"/></a>&nbsp;&nbsp;
-<a href="https://developer.android.com"><img src="https://seeklogo.com/images/A/android-new-2019-logo-3CD3BC571C-seeklogo.com.png" alt="androidstudio" width="40"/></a>&nbsp;&nbsp;
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![PLSQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+![Dialog Flow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MusicBrainz](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
 <br>
 
 ## ***⚙️ GitHub Analytics***
-![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=radical)
+![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
 
 
 <br>
@@ -88,6 +125,10 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 <br>
+
+https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=minimal
+https://gists-readme.yizack.com/api?user={username}
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
