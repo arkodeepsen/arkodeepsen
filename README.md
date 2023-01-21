@@ -1,13 +1,11 @@
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=synthwave)
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
 • 👦 **Pronouns:** *He/Him.*<br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
@@ -16,14 +14,16 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## **Currently Listening/Last Played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## <img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/> **Connect With Me**<br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkodeepsen)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
@@ -53,12 +53,12 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://drgamerarko.itch.io/)
 [![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)](https://pasteboard.co/Q9LwuZCTu3Ec.png)
 [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://pasteboard.co/qe32EnmT9p36.png)
-
-
-<br>
-<br>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<br>
+<br>
+
+
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/> **Languages and Tools**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -104,19 +104,19 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=tokyonight)
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## **🎖️ Credentials and Certifications**
 
 ## *Certificates*
