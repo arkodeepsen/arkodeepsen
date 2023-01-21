@@ -20,13 +20,13 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 
-## <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif"> **Currently Listening/Last Played**
+## <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif" width="30"> **Currently Listening/Last Played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 
-# **Connect With Me** <img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/> <br>
+# **Connect With Me** <img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="30"/> <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkodeepsen)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/ad0bc8b301877653eebaa734a3b4be7d)
@@ -61,7 +61,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 
-# **Languages and Tools** <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/><br>
+# **Languages and Tools** <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="30"/><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
