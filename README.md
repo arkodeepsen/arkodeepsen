@@ -1,5 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=synthwave)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -7,6 +8,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 • 👦 **Pronouns:** *He/Him.*<br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
@@ -19,12 +21,14 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## **Currently Listening/Last Played**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
 
 ## <img src="https://media2.giphy.com/media/KcPAarmcMy34NQJG3H/giphy.gif?cid=790b7611e306df1d2c887d46117aeb6ebd9bcd03698476ea&rid=giphy.gif&ct=s" alt="running" width="50"/> **Connect With Me**<br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkodeepsen)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/ad0bc8b301877653eebaa734a3b4be7d)
@@ -60,6 +64,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="40"/> **Languages and Tools**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -109,15 +114,17 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## ***⚙️ GitHub Analytics***
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=tokyonight)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=gruvbox)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 
 
 ## **🎖️ Credentials and Certifications**
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## *Certificates*
 [![Hnzlx94.md.png](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
@@ -131,13 +138,5 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## *Internships*
 <a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://iili.io/HfRcI3l.md.png" alt="Internship-Offer-Letter" border="1"></a>&nbsp;&nbsp;
-
-
-<br>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<br>
