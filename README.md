@@ -109,7 +109,9 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=merko)
 <img src="https://github.com/arkodeepsen/arkodeepsen/blob/output/github-contribution-grid-snake-dark.svg">
+
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
