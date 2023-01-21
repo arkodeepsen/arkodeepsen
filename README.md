@@ -5,10 +5,8 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<br>
 
-
-## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="80"/> **About Me**
+## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
 • 👦 **Pronouns:** *He/Him.*<br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
@@ -57,11 +55,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://pasteboard.co/qe32EnmT9p36.png)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<br>
-<br>
-
-
-# **Languages and Tools** <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="50"/><br>
+# **Languages and Tools** <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="30"/><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
