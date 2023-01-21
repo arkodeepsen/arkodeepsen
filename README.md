@@ -3,8 +3,9 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=synthwave)
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
-
+<br>
 
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" width="65"/> **About Me**
@@ -14,6 +15,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
 
 ## **Currently Listening/Last Played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
@@ -104,6 +106,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ## ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=tokyonight)
 
 
 <br>
@@ -125,11 +128,6 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 <br>
-
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=minimal)
-![Gists List](https://gists-readme.yizack.com/api?user=arkodeepsen)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=vue)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
