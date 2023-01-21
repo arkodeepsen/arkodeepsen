@@ -51,9 +51,9 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://drgamerarko.itch.io/)
 [![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)](https://pasteboard.co/Q9LwuZCTu3Ec.png)
 [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://pasteboard.co/qe32EnmT9p36.png)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/ad0bc8b301877653eebaa734a3b4be7d)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://media0.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="coding" width="30"/> **Languages and Tools** <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
