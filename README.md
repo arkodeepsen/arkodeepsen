@@ -1,8 +1,8 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
-*B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
-Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)
+*B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.
+Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* <br>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
@@ -117,7 +117,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://github.com/arkodeepsen/arkodeepsen/blob/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
