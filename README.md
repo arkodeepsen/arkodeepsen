@@ -14,7 +14,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 
-
+## **Currently listening/last played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <br>
 
@@ -39,11 +39,11 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/365JpSzUAh)
 [![Xbox](https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)](https://account.xbox.com/en-in/profile?gamertag=DrGamerArko)
 [![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)](https://starcraft2.com/en-us/profile/1/1/575863)
-[![EA](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](DrGamerArko on Origin)
+[![EA](https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white)](https://pasteboard.co/7K9lMaWC2z7D.png)
 [![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/en-US/u/76ffab9e6cc14d68ae8c5c6c6a143753)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://drgamerarko.itch.io/)
-![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)
-[![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://id.sonyentertainmentnetwork.com/id/drgamerarko)
+[![Republic Of Gamers](https://img.shields.io/badge/Republic%20of%20Gamers-FF0029?style=for-the-badge&logo=Republic%20of%20Gamers&logoColor=white)](https://pasteboard.co/Q9LwuZCTu3Ec.png)
+[![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)](https://pasteboard.co/qe32EnmT9p36.png)
 
 
 <br>
