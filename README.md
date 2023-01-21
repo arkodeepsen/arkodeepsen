@@ -1,8 +1,8 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=radicle)
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.<br>
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
@@ -115,9 +115,9 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=merko)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="github-contribution-grid-snake.svg">
 </picture>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
