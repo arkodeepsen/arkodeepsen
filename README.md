@@ -20,7 +20,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 
-## **Currently Listening/Last Played**
+## <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif"> **Currently Listening/Last Played**
 [![Spotify](https://spotify-nine-eta.vercel.app/api/spotify)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
