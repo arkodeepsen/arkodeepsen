@@ -108,19 +108,19 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 
-## ***⚙️ GitHub Analytics***
+# ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=gruvbox)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=merko)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 
 
-## **🎖️ Credentials and Certifications**
+# **🎖️ Credentials and Certifications**
 
 
-# *Certificates*
+## *Certificates*
 [![Hnzlx94.md.png](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
 <a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="1"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://iili.io/HfRcyN9.md.png" alt="java" border="1"></a>&nbsp;&nbsp;
@@ -130,7 +130,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <a href="https://www.hackerrank.com/certificates/8971179dba21"><img src="https://i.ibb.co/Yhx2Swh/sql.png" alt="sql" border="1"></a>&nbsp;&nbsp;
 <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover"><img src="https://i.ibb.co/7QV1Cbj/ONQC086644.jpg" alt="ONQC086644" border="1"></a>&nbsp;&nbsp;
 
-# *Internships*
+## *Internships*
 <a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://iili.io/HfRcI3l.md.png" alt="Internship-Offer-Letter" border="1"></a>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <br>
