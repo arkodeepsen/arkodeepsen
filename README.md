@@ -24,7 +24,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 <br>
 
 
-## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="80"> **Connect With Me** <br>
+## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="100"> **Connect With Me** <br>
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arkodeepsen)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arkodeep-sen/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/user/ad0bc8b301877653eebaa734a3b4be7d)
