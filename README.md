@@ -124,6 +124,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## *Certificates*
 [![Hnzlx94.md.png](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
+
 <iframe
   src="https://skillshop.credential.net/embed/da29fc35-1597-47f1-9c23-ac89054a65f6"
   width="800"
@@ -131,6 +132,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
   frameborder="0"
   allowfullscreen>
 </iframe>
+
 <a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="1"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://iili.io/HfRcyN9.md.png" alt="java" border="1"></a>&nbsp;&nbsp;
 <a href="https://skillshop.exceedlms.com/student/award/QMwCjGNZM6DTRkjEizct92Ed"><img src="https://i.ibb.co/r30dRqc/skillshop-exceedlms-com-student-award-QMw-Cj-GNZM6-DTRkj-Eizct92-Ed.jpg" alt="skillshop-exceedlms-com-student-award" border="1"></a>&nbsp;&nbsp;
