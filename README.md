@@ -109,13 +109,6 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&layout=compact&theme=dracula)
 ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=arkodeepsen&theme=merko)
 <img src="https://github.com/arkodeepsen/arkodeepsen/blob/output/github-contribution-grid-snake-dark.svg">
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
@@ -125,7 +118,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## *Certificates*
-[![Hnzlx94.md.png](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
+[![](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
 <a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="1"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://iili.io/HfRcyN9.md.png" alt="java" border="1"></a>&nbsp;&nbsp;
 <a href="https://skillshop.exceedlms.com/student/award/QMwCjGNZM6DTRkjEizct92Ed"><img src="https://i.ibb.co/r30dRqc/skillshop-exceedlms-com-student-award-QMw-Cj-GNZM6-DTRkj-Eizct92-Ed.jpg" alt="skillshop-exceedlms-com-student-award" border="1"></a>&nbsp;&nbsp;
