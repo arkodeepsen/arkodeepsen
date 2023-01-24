@@ -2,7 +2,7 @@
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight) <br>
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.
 Apart from Computer Science and Technology 👨‍💻, I like playing video games 🎮 and music production 🎛️.* <br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label= )
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
