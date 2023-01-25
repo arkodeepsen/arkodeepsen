@@ -118,16 +118,16 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 
 ## *Certificates*
-[![](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
-[![](https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg)](https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures)
-[![](https://iili.io/HfRcyN9.md.png)](https://www.hackerrank.com/certificates/0555c7bd01f9)
-[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66152389)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
-[![](https://i.ibb.co/BfNDVfD/css.png)](https://www.hackerrank.com/certificates/161a821e60fc)
-[![](https://i.ibb.co/XZzPMdz/dsa.png)](https://www.hackerrank.com/certificates/9509be2ba3ac)
-[![](https://i.ibb.co/Yhx2Swh/sql.png)](https://www.hackerrank.com/certificates/8971179dba21)
-[![](https://i.ibb.co/7QV1Cbj/ONQC086644.jpg)](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover)
+[![JS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746649699809826233327945309302.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
+[![JS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16740267839192914872603496845565.jpg)](https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures)
+[![JAVA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746646965435564386773524149958.png)](https://www.hackerrank.com/certificates/0555c7bd01f9)
+[![GA](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66152389)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
+[![CSS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746646965469750022731483841249.png)](https://www.hackerrank.com/certificates/161a821e60fc)
+[![DSA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746649697776657766480285097517.png)](https://www.hackerrank.com/certificates/9509be2ba3ac)
+[![SQL](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://www.hackerrank.com/certificates/8971179dba21)
+[![GOV](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/1674665521434268505363659265170.jpg)](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover)
 
 ## *Internships* 
-[![](https://iili.io/HfRcI3l.md.png)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <br>
