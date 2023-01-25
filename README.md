@@ -119,15 +119,15 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 
 ## *Certificates*
 [![](https://iili.io/Hnzlx94.md.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
-<a href="https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures"><img src="https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg" alt="javascript-algorithms-and-data-structures" border="1"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/0555c7bd01f9"><img src="https://iili.io/HfRcyN9.md.png" alt="java" border="1"></a>&nbsp;&nbsp;
-<a href="https://skillshop.exceedlms.com/student/award/QMwCjGNZM6DTRkjEizct92Ed"><img src="https://i.ibb.co/r30dRqc/skillshop-exceedlms-com-student-award-QMw-Cj-GNZM6-DTRkj-Eizct92-Ed.jpg" alt="skillshop-exceedlms-com-student-award" border="1"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/161a821e60fc"><img src="https://i.ibb.co/BfNDVfD/css.png" alt="css" border="1"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/9509be2ba3ac"><img src="https://i.ibb.co/XZzPMdz/dsa.png" alt="dsa" border="1"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/certificates/8971179dba21"><img src="https://i.ibb.co/Yhx2Swh/sql.png" alt="sql" border="1"></a>&nbsp;&nbsp;
-<a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover"><img src="https://i.ibb.co/7QV1Cbj/ONQC086644.jpg" alt="ONQC086644" border="1"></a>&nbsp;&nbsp;
+[![](https://i.ibb.co/kcyJNsg/www-freecodecamp-org-certification-arkodeep-javascript-algorithms-and-data-structures.jpg)](https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures)
+[![](https://iili.io/HfRcyN9.md.png)](https://www.hackerrank.com/certificates/0555c7bd01f9)
+[![](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66152389)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
+[![](https://i.ibb.co/BfNDVfD/css.png)](https://www.hackerrank.com/certificates/161a821e60fc)
+[![](https://i.ibb.co/XZzPMdz/dsa.png)](https://www.hackerrank.com/certificates/9509be2ba3ac)
+[![](https://i.ibb.co/Yhx2Swh/sql.png)](https://www.hackerrank.com/certificates/8971179dba21)
+[![](https://i.ibb.co/7QV1Cbj/ONQC086644.jpg)](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover)
 
 ## *Internships* 
-<a href="https://my.moodi.org/?rid=MI-ARK-117"><img src="https://iili.io/HfRcI3l.md.png" alt="Internship-Offer-Letter" border="1"></a>&nbsp;&nbsp;<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+[![](https://iili.io/HfRcI3l.md.png)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <br>
