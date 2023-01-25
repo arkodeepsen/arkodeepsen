@@ -124,7 +124,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 [![GA](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66152389)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
 [![CSS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746646965469750022731483841249.png)](https://www.hackerrank.com/certificates/161a821e60fc)
 [![DSA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746649697776657766480285097517.png)](https://www.hackerrank.com/certificates/9509be2ba3ac)
-[![SQL](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://www.hackerrank.com/certificates/8971179dba21)
+[![SQL](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746666175224860545566100076466.png)](https://www.hackerrank.com/certificates/8971179dba21)
 [![GOV](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/1674665521434268505363659265170.jpg)](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover)
 
 ## *Internships* 
