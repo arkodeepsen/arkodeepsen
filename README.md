@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/arkodeepsen/arkodeepsen/main/top.png)
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight) <br>
 *B. Tech (CS) freshman from India 🇮🇳, passionate about coding and learning new things related to computer science.
