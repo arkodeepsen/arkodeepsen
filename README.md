@@ -13,7 +13,7 @@ Apart from Computer Science and Technology 👨‍💻, I like playing video gam
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
-![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight) <p align=right><img src="/vergil.gif" height="250" widght="468"></p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight) <img src="/vergil.gif" height="250" widght="468">
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
