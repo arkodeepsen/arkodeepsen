@@ -125,7 +125,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 [![JS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746649699809826233327945309302.png)](https://www.hackerrank.com/certificates/1f6ddae2d6ad)
 [![JS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16740267839192914872603496845565.jpg)](https://www.freecodecamp.org/certification/arkodeep/javascript-algorithms-and-data-structures)
 [![JAVA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746646965435564386773524149958.png)](https://www.hackerrank.com/certificates/0555c7bd01f9)
-[![GA](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66152389)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
+[![GA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16781199647270956611133315743963.jpg)](https://skillshop.credential.net/da29fc35-1597-47f1-9c23-ac89054a65f6)
 [![CSS](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746646965469750022731483841249.png)](https://www.hackerrank.com/certificates/161a821e60fc)
 [![DSA](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746649697776657766480285097517.png)](https://www.hackerrank.com/certificates/9509be2ba3ac)
 [![SQL](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746666175224860545566100076466.png)](https://www.hackerrank.com/certificates/8971179dba21)
