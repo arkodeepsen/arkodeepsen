@@ -14,6 +14,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 • 💡 *Interested in web development, music production and game design.*<br>
 • 🌍 **Website:** [R3vivalX.com](https://r3vivalx.com) & [R3vivalXMusic](https://music.r3vivalx.com)<br>
 ![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
