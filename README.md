@@ -133,6 +133,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 [![GOV](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/1674665521434268505363659265170.jpg)](https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3A53658998-a0fb-4b55-b440-3f66097d76ce&viewer%21megaVerb=group-discover)
 
 ## *Internships* 
-[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://my.moodi.org/?rid=MI-ARK-117)
+[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16818153079260277136019009843460.jpg)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <br>
