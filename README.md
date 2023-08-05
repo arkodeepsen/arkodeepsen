@@ -8,13 +8,13 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" height="100%" width="60"/> **About Me**
-• 👦 **Pronouns:** *He/Him.*<br>
+• 👦 **Pronouns:** *He/Him.* -ˋˏ✄┈┈┈┈ <br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I’m currently expanding my knowledge about web development and AI/ML.*<br>
 • 💡 *Interested in web development, music production and game design.*<br>
-• 🌍 **Websites:** [Personal](https://arkodeep.me)  [R3vivalX](https://r3vivalx.uwu.ai)  [R3vivalXMusic](https://music.uwu.ai)<br>
-![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=synthwave)
+• 🌍 **Websites:** *[Personal](https://arkodeep.me) ✧ [R3vivalX](https://r3vivalx.uwu.ai) ✧ [R3vivalXMusic](https://music.uwu.ai)*<br>
+<br>
+![Trophies](https://github-profile-trophy.vercel.app/?username=arkodeepsen&theme=darkhub&row=1)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
 
@@ -111,6 +111,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 
 # ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=merko)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=merko)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&theme=merko)
 ![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arkodeepsen&theme=merko)
 <img src="https://github.com/arkodeepsen/arkodeepsen/blob/output/github-contribution-grid-snake-dark.svg">
