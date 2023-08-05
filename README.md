@@ -112,7 +112,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 # ***⚙️ GitHub Analytics***
 ![Arkodeep's GitHub stats](https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats-delta-gilt.vercel.app/api/top-langs/?username=arkodeepsen&theme=dracula)
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arkodeepsen&theme=dracula)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arkodeepsen&theme=merko)
 <img src="https://github.com/arkodeepsen/arkodeepsen/blob/output/github-contribution-grid-snake-dark.svg">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
