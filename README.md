@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/arkodeepsen/arkodeepsen/main/top.png)
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
-*B. Tech (CS) freshman from India 🇮🇳. Passionate about coding and learning new things related to computer science.
+*3rd Year B. Tech (CS) undergrad from India 🇮🇳. Passionate about coding and learning new things related to computer science.
 Apart from Computer Science and Technology 👨‍💻 I like playing video games 🎮 and music production 🎛️.* <br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label=profile_views )
 
@@ -119,7 +119,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 
 <br>
 
-
+<!--
 # **🎖️ Credentials and Certifications** <img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 
 
@@ -136,6 +136,6 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 
 ## *Internships* 
 [![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16746652459388009678180484026654.png)](https://my.moodi.org/?rid=MI-ARK-117)
-[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16818153079260277136019009843460.jpg)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">
+[![IITB](https://accredible_temp_credential_images.s3-external-1.amazonaws.com/16818153079260277136019009843460.jpg)](https://my.moodi.org/?rid=MI-ARK-117) <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">-->
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 <br>
