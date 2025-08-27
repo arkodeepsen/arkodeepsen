@@ -3,12 +3,13 @@
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
 *3rd Year B. Tech (CS) undergrad from India 🇮🇳. Passionate about coding and learning new things related to computer science.
 Apart from Computer Science and Technology 👨‍💻 I like playing video games 🎮 and music production 🎛️.* <br>
+-ˋˏ✄┈┈┈┈
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label=profile_views )
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="running" height="100%" width="60"/> **About Me**
-• 👦 **Pronouns:** *He/Him.* -ˋˏ✄┈┈┈┈ <br>
+• 👦 **Pronouns:** *He/Him.*  <br>
 • 💪🏼 **Future Goals:** *Creating and applying unique/original ideas.*<br>
 • 🌱 *I'm currently expanding my knowledge about AI/ML.*<br>
 • 💡 *Interested in web development, music production and game design.*<br>
