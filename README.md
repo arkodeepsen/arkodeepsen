@@ -1,10 +1,12 @@
 ![](https://raw.githubusercontent.com/arkodeepsen/arkodeepsen/main/top.png)
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial+Black&color=%23BABABA&size=30&vCenter=true&lines=%F0%9F%91%8B+Hello%2C+I'm+Arkodeep.)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)<img src="/vergil.gif" height="175" widght="393"> <br>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkodeepsen&theme=tokyonight)
+<img src="/vergil.gif" height="175" widght="393"> <br>
 *4th Year B. Tech (CS) undergrad from India 🇮🇳. Passionate about coding and learning new things related to computer science.
 Apart from Computer Science and Technology 👨‍💻 I like playing video games 🎮 and music production 🎛️.* <br>
 -ˋˏ✄┈┈┈┈
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter) ![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label=profile_views )
+<!--![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farkodeepsen1212%2Fhit-counter)-->
+![](https://komarev.com/ghpvc/?username=arkodeepsen&color=blueviolet&label=profile_views )
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -20,7 +22,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 <br>
 
 
-# <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif" height="80"> **My Spotify Vibes** 
+<!--# <img src="https://media.giphy.com/media/Q59sPZFy7mxEaXpat0/giphy.gif" height="80"> **My Spotify Vibes** 
 <table>
   <tr>
     <td width="50%">
@@ -38,7 +40,7 @@ Apart from Computer Science and Technology 👨‍💻 I like playing video game
 [![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31s5wub35o5yzy4vvhi6jakvirmy&width=640)](https://open.spotify.com/user/31s5wub35o5yzy4vvhi6jakvirmy)
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <br>
-
+-->
 
 ## <img src="https://media.giphy.com/media/x3Tmax9aaGpWbbekEW/giphy.gif" height="100"> **Connect With Me** <br>
 [![Discord Presence](https://lanyard.cnrad.dev/api/523183373603045436)](https://discord.com/users/523183373603045436)
