@@ -16,6 +16,6 @@ B.Tech (CS) undergrad from India 🇮🇳 who loves building things with code an
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=merko" alt="Arkodeep's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-delta-gilt.vercel.app/api?username=arkodeepsen&show_icons=true&theme=merko" alt="Arkodeep's GitHub statistics showing repositories, contributions, and activity metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arkodeepsen&theme=merko" alt="Arkodeep's GitHub contribution streak statistics" />
 </p>
