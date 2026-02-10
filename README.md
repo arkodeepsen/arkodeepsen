@@ -8,7 +8,7 @@ B.Tech (CS) undergrad from India 🇮🇳 who loves building things with code an
 - Interests: video games 🎮, music production 🎛️
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/arkodeepsen/) • [Twitter](https://twitter.com/arkodeepsen) • [GitHub](https://github.com/arkodeepsen) • [Email](mailto:arkodeepsen72@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arkodeepsen/) • [Twitter](https://twitter.com/arkodeepsen) • [GitHub](https://github.com/arkodeepsen) • [Email](mailto:arkodeepsen72@gmail.com) (arkodeepsen72@gmail.com)
 
 ## Tech Stack
 **Languages:** C, Java, JavaScript, Python, SQL  
